@@ -1,0 +1,3 @@
+rootProject.name = 'devtalks'
+
+include ':app'
